@@ -1,1 +1,1 @@
-"# HackerRank Python Tasks" 
+# HackerRank Python Tasks
