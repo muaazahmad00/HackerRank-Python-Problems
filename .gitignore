@@ -1,0 +1,11 @@
+#for multiple files with same extension
+*.csv   
+
+
+#for specific file
+test.txt
+
+
+#for folders
+testFolder
+
